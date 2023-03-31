@@ -1,0 +1,1 @@
+A project training the lambda, correct use of for and try-except.
