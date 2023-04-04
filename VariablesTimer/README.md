@@ -1,0 +1,1 @@
+Project focusing in decorators and functions
